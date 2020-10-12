@@ -1,3 +1,9 @@
+#*****************************
+#
+#   written by : Rithesh
+#   github username: ritheshrai
+#
+#*****************************
 import sys, clipboard, os
 
 from selenium import webdriver
